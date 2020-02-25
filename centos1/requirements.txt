@@ -54,7 +54,6 @@ pandocfilters==1.4.2
 parsel==1.5.2
 parso==0.6.1
 pexpect==4.8.0
-picamera==1.13
 pickleshare==0.7.5
 pigpio==1.45
 pip-upgrader==1.4.15
@@ -82,8 +81,6 @@ qtconsole==4.6.0
 queuelib==1.5.0
 requests==2.23.0
 requests-toolbelt==0.9.1
-RPi.GPIO==0.7.0
-RPIO==0.10.0
 Scrapy==1.8.0
 Send2Trash==1.5.0
 service-identity==18.1.0
