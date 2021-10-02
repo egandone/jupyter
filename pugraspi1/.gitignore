@@ -1,0 +1,5 @@
+.venv/
+.venv38/
+.vscode/
+.ipynb_checkpoints/
+
