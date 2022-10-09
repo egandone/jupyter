@@ -1,0 +1,7 @@
+black
+jupyter
+numpy
+opencv-python
+watermark
+imutils
+linux-metrics
